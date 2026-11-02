@@ -142,4 +142,4 @@ if run_btn:
     else:
         st.info("GA may reach near-optimal solutions; try another seed to explore further.")
 
-st.caption("© 2025 Simple GA demo (70 bits, optimum at 40 ones).")
+st.caption("© 2025 Simple GA demo (80 bits, optimum at 50 ones).")
